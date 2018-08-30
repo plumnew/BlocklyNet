@@ -1,0 +1,8 @@
+*.user
+.vs
+*.suo
+bin
+packages
+obj
+*.userprefs
+*.7z
